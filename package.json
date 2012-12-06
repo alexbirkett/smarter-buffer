@@ -3,6 +3,11 @@
     "version": "0.0.1",
     "author": "Alex Birkett",
     "description": "Adds smarterConcat method the Node.js Buffer object that ignores null and undefined list items",
+	"keywords": [
+	    "concat",
+	    "buffer.concat",
+	    "buffer"
+	  ],
     "main": "./smarter-buffer",
     "engine": "node >= 0.8.3",
     "dependencies": {
