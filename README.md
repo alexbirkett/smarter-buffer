@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/alexbirkett/smarter-buffer.png)](https://travis-ci.org/alexbirkett/smarter-buffer)
+
 smarter-buffer
 ==============
 
